@@ -43,3 +43,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="40"/>
 </div>
 </div>
+
+<hr>
+<div id="stats" align="center">
+  :fire: My Stats :
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JordanWitt&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanWitt&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
